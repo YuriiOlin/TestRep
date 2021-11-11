@@ -2,6 +2,11 @@
 
 using namespace std;
 
+void SF()
+{
+	cout << "SF" << endl;
+}
+
 int main()
 {
 
