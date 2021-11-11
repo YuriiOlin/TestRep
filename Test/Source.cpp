@@ -31,11 +31,12 @@ void SF5()
 int main()
 {
 
+	
 	cout << "Hello Git" << endl;
 	cout << "Hello Git" << endl;
 	cout << "Hello Git" << endl;
-	cout << "Hello Git" << endl;
-	cout << "Hello Git" << endl;
+	cout << "Hello Git3" << endl;
+	cout << "Hello Git3" << endl;
 
 
 	system("pause > log.txt");
