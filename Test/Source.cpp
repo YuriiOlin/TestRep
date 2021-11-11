@@ -7,6 +7,16 @@ void SF()
 	cout << "SF" << endl;
 }
 
+
+void SF2()
+{
+	cout << "SF2" << endl;
+}
+
+void SF3()
+{
+	cout << "SF3" << endl;
+}
 int main()
 {
 
