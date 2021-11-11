@@ -36,6 +36,8 @@ int main()
 	cout << "Hello Git" << endl;
 	cout << "Hello Git" << endl;
 	cout << "Hello Git" << endl;
+	cout << "Hello Git7" << endl;
+	cout << "Hello Git7" << endl;
 
 
 	system("pause > log.txt");
