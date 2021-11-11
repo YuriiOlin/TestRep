@@ -7,6 +7,11 @@ void Func_super()
 	cout << "Super func" << endl;
 }
 
+void Func_super2()
+{
+	cout << "Super func 2" << endl;
+}
+
 int main()
 {
 
