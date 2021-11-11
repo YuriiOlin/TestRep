@@ -2,6 +2,11 @@
 
 using namespace std;
 
+void Func_super()
+{
+	cout << "Super func" << endl;
+}
+
 int main()
 {
 
