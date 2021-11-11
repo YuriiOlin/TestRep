@@ -38,6 +38,8 @@ int main()
 	cout << "Hello Git7" << endl;
 
 
+	
+	
 
 	system("pause > log.txt");
 }
